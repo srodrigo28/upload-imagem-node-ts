@@ -44,12 +44,18 @@ npm run dev
 * npm i express @types/express
 * npm i cors @types/cors
 * npm i multer @types/multer
-#### Referência do projeto
 
-* OmniLabs
-```
+#### Referência do projeto
+```OmniLabs
 https://www.youtube.com/watch?v=FFWNVPysy5I
 ```
+
+```Sujeito programador
+https://www.youtube.com/watch?v=XuTfN_84rcU&t=1302s
+```
+
+#### End Points
+* localhost:3333/upload
 
 #### Testes 
 
